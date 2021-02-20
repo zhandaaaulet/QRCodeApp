@@ -1,0 +1,15 @@
+C:\Users\77071\source\repos\QRCode\QRCode\bin\Debug\QRCode.exe.config
+C:\Users\77071\source\repos\QRCode\QRCode\bin\Debug\QRCode.exe
+C:\Users\77071\source\repos\QRCode\QRCode\bin\Debug\QRCode.pdb
+C:\Users\77071\source\repos\QRCode\QRCode\obj\Debug\QRCode.csprojAssemblyReference.cache
+C:\Users\77071\source\repos\QRCode\QRCode\obj\Debug\QRCode.Form1.resources
+C:\Users\77071\source\repos\QRCode\QRCode\obj\Debug\QRCode.Properties.Resources.resources
+C:\Users\77071\source\repos\QRCode\QRCode\obj\Debug\QRCode.csproj.GenerateResource.cache
+C:\Users\77071\source\repos\QRCode\QRCode\obj\Debug\QRCode.csproj.CoreCompileInputs.cache
+C:\Users\77071\source\repos\QRCode\QRCode\obj\Debug\QRCode.exe
+C:\Users\77071\source\repos\QRCode\QRCode\obj\Debug\QRCode.pdb
+C:\Users\77071\source\repos\QRCode\QRCode\bin\Debug\zxing.dll
+C:\Users\77071\source\repos\QRCode\QRCode\bin\Debug\zxing.presentation.dll
+C:\Users\77071\source\repos\QRCode\QRCode\bin\Debug\zxing.xml
+C:\Users\77071\source\repos\QRCode\QRCode\bin\Debug\zxing.presentation.xml
+C:\Users\77071\source\repos\QRCode\QRCode\obj\Debug\QRCode.csproj.CopyComplete
